@@ -11,7 +11,7 @@ setup(
     version='1.0.0', # version
     author='Baoming Yu', # author's name
     author_email='dingxuanliang@icloud.com', # author's email
-    url='https://github.com/Baoming520/gadget', # url on github
+    url='https://github.com/Baoming520/pygadget', # url on github
     description='A set of tools.', # abstract
     long_description=readme(), # contents in README.MD file
     long_description_content_type="text/markdown", # type of long description
