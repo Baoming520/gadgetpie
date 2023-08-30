@@ -8,11 +8,11 @@ def readme():
 
 setup(
     name='pygadget', # project name
-    version='1.0.0', # version
+    version='0.0.1', # version
     author='Baoming Yu', # author's name
     author_email='dingxuanliang@icloud.com', # author's email
     url='https://github.com/Baoming520/pygadget', # url on github
-    description='A set of tools.', # abstract
+    description='A set of common tools.', # abstract
     long_description=readme(), # contents in README.MD file
     long_description_content_type="text/markdown", # type of long description
     packages=['pygadget'], # pakages waiting for packing

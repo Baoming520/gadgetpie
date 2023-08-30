@@ -13,7 +13,7 @@ import os
 import sys
 
 sys.path.append(os.getcwd())
-from gadget import Dict2Class
+from pygadget import Dict2Class
 
 def demo(argv=None):
     test_dict = {
